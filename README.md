@@ -1,6 +1,4 @@
-# Ex.No.9 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
-
-### DATE: 16/12/23
+# Ex.No.6.2 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -31,7 +29,7 @@
 ### 4.	When the first part is selected then it will open in the blank space in the left side of the screen.
 ### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
-## OUTPUT :
+## OUTPUT 1:
 
 ## Support Removal Process
 ![image](https://github.com/K-Dharshini/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139334830/8c4bb853-c772-4c36-bed1-1b0d50ea84d1)
@@ -46,6 +44,20 @@
 ## Heat Treatment of 3D printed part
 ![image](https://github.com/K-Dharshini/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139334830/4f5c5b87-83be-4533-a223-ed89633affec)
 ![image](https://github.com/K-Dharshini/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139334830/6ea1ffeb-d691-4919-9000-591bd6d3277d)
+
+## OUTPUT 2:
+### 1.Support removal
+
+![image](https://github.com/user-attachments/assets/1201f0ec-d86b-4a26-9edb-bde8803eaf00)
+
+### 2.UV Curving
+
+![image](https://github.com/user-attachments/assets/53767f05-116d-47dd-a561-8039e95c0ab9)
+
+
+### 3.Heat Treatment
+
+![image](https://github.com/user-attachments/assets/b07fac00-f951-4c60-9a60-647e308c24d6)
 
 
 ### Name: Jeba Solomon Raj S
